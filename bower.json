@@ -1,0 +1,20 @@
+{
+  "name": "vue-learning",
+  "homepage": "https://github.com/luciano-jr/vue-learning",
+  "authors": [
+    "luciano-jr <luciano@lucianojr.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^1.0.24"
+  }
+}
